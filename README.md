@@ -1,3 +1,4 @@
+[![MasterHead](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Scientist_py4mog.png)](surajnag.netlify.app)
 <h1 align="center">Hi 👋, I'm Suraj Nag</h1>
 <h3 align="center">A Data Scientist, who loves learning new things and helping tech beginners.</h3>
 <img align="right" alt="Coding" width="350" src="http://scatterpie.io/wp-content/uploads/2020/08/Data-report-4.gif">
