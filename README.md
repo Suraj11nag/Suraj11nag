@@ -17,11 +17,7 @@
 
 - 📫 How to reach me **suraj11nag@gmail.com**
 
-- ⚡ Fun fact **I am a Mechanical Engineer**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ Fun fact **I'm a Mechanical Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
