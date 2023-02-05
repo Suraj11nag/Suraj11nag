@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Dog Vision – Deep Learning](https://github.com/Suraj11nag/dog-vision-deep-learning-project)
 
-- 🌱 I’m currently mastering the mystic arts of Machine Learning
+- 🌱 I’m currently **mastering the mystic arts of Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://surajnag.netlify.app](https://surajnag.netlify.app)
 
