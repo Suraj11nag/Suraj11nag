@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently **mastering the mystic arts of Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://surajnag.netlify.app](https://surajnag.netlify.app)
+- 👨‍💻 All of my projects are available at [https://surajnag.com](https://suraj11nag.github.io/surajnag.com)
 
 - 📝 I regularly write articles on [https://medium.com/@suraj11nag](https://medium.com/@suraj11nag)
 
