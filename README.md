@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Nag</h1>
 <h3 align="center">A Data Scientist, who loves learning new things and helping tech beginners.</h3>
 
-- 🔭 I’m currently working on [Dog Vision – Deep Learning](https://github.com/Suraj11nag/dog-vision-deep-learning-project)
+- 🔭 I’m currently working on [Self Driving Car]([https://github.com/Suraj11nag/dog-vision-deep-learning-project](https://github.com/Suraj11nag/self_driving_car)
 
 - 🌱 I’m currently **mastering the mystic arts of Machine Learning**
 
