@@ -53,6 +53,6 @@ RajaRajeswari College of Engineering
 ## 📫 Find Me
 - **[LinkedIn](https://www.linkedin.com/in/surajnag)**
 - **[Email](mailto:suraj11nag@gmail.com)**
-- **[Portfolio](http://surajnag.com)**
+- **[Portfolio](https://surajnag.netlify.app/)**
 
 Dive into my repos and let's create data magic together! 🚀
