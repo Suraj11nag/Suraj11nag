@@ -9,7 +9,7 @@ Welcome to my data wonderland! I'm a data enthusiast, analyst, and occasional ma
 - **Cloud Wizardry:** AWS, Spark, Docker
 - **Analytics Tricks:** GA4, Mixpanel, Clevertap
 - **ML/AI Alchemy:** Scikit-Learn, TensorFlow, NLP
-- **Dev Ops:** Git, CI/CD
+- **Data Ops:** Git, CI/CD, DBT
 
 ## 💼 Experience
 **Data Analyst @ TouchNote (02/2024 - Present)**
