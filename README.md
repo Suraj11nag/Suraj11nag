@@ -1,58 +1,35 @@
-# Hey there, I'm Suraj Nag! 👋
+# Suraj Nag
 
-Welcome to my data wonderland! I'm a data enthusiast, analyst, and occasional machine learning sorcerer. Here's a snapshot of what I do and love:
+**Data Analyst | Machine Learning Enthusiast | Educator**
 
-## 🛠️ Skills
-- **Code Whispers:** Python, SQL, Excel
-- **Data Viz Magic:** Looker, Tableau, Power BI
-- **Database Juggling:** PostgreSQL, MongoDB, Big Query
-- **Cloud Wizardry:** AWS, Spark, Docker
-- **Analytics Tricks:** GA4, Mixpanel, Clevertap
-- **ML/AI Alchemy:** Scikit-Learn, TensorFlow, NLP
-- **Data Ops:** Git, CI/CD, DBT
+- **LinkedIn:** [Suraj Nag](https://www.linkedin.com/in/suraj11nag/)
+- **Website:** [surajnag.netlify.app](https://surajnag.netlify.app/)
+- **Email:** [suraj11nag@gmail.com](mailto:suraj11nag@gmail.com)
 
-## 💼 Experience
-**Data Analyst @ TouchNote (02/2024 - Present)**
-- Looker dashboards: where KPIs live and breathe.
-- Pipeline master with Hevo, Airbyte, and Airflow.
-- Refactored Airflow scripts for fun and profit.
+## Skills
 
-**Data Analyst @ Open Financial Technologies (12/2022 - 02/2024)**
-- Automated reporting hero with Looker & Metabase.
-- BigQuery migration: because data should be free.
-- Python scripts for everything under the sun.
+- **Languages & Tools:** SQL, Python, Excel, Looker, Metabase, Tableau, Power BI, Google Data Studio, PostgreSQL, MongoDB
+- **Big Data & Cloud:** BigQuery, AWS, Snowflake, DBT, Spark, Docker, Hevo, Airflow, Airbyte, CI/CD
+- **Analytics:** Google Analytics 4, Google Tag Manager, Git, Amplitude, Mixpanel, Clevertap
+- **Machine Learning & Deep Learning:** Scikit-Learn, Pandas, Numpy, Tensorflow, NLP, LookML
 
-**Data Analyst @ Mojocare (09/2021 - 12/2022)**
-- Event architecture designer: Mixpanel & Clevertap.
-- Marketing data warehouse builder.
-- Automated manual tasks for 90% more awesomeness.
+## Projects
 
-**Data Analyst @ Eloelo (12/2020 - 09/2021)**
-- KPIs for 500K users with SQL, Python, and love.
-- Dashboard creator: Google Analytics and Facebook Analytics.
+- **[Machine Learning Project](https://github.com/Suraj11nag/Machine-Learning-Project):** Predicting heart disease based on medical attributes.
+- **[Dog Vision Deep Learning Project](https://github.com/Suraj11nag/dog-vision-deep-learning-project):** Multi-class image classifier using TensorFlow.
+- **[Airflow Data Pipeline](https://github.com/Suraj11nag/airflow_data_pipeline/tree/main/airflow):** Data pipeline for efficient data management.
+- **[Spam Detector App](https://suraj11nag-spam-detector-app-uqclka.streamlit.app/):** Web app powered by machine learning and Streamlit.
+- **[Book Recommender](https://github.com/Suraj11nag/book-recommender):** Recommender app using machine learning.
+- **[Langchain Project](https://github.com/Suraj11nag/langchain):** Domain-specific chatbot using LLMs.
 
-**Intern @ Bosch Rexroth (07/2020 - 08/2020)**
-- Growth strategy analyst and consumer experience sleuth.
+## Articles
 
-## 🎓 Education
-**BE in Mechanical Engineering**  
-RajaRajeswari College of Engineering  
-**CGPA:** 7.12
+- **Medium:** [@suraj11nag](https://medium.com/@suraj11nag) - Writing data science articles to share insights and promote knowledge sharing within the community.
 
-## 🧩 Projects
-- **Heart Disease Prediction:** ML model extraordinaire.
-- **Image Classifier:** Deep learning with TensorFlow.
-- **Forex Pipeline:** Data engineering feat.
-- **Visualization Galore:** Tableau masterpieces.
-- **Web Apps:** Spam Detector, Book Recommender.
-- **AI Chatbot:** Powered by LLMs and Langchain.
+## Contact
 
-## 📚 Articles
-- Catch my data musings on [Medium](https://medium.com/@surajnag).
+Feel free to reach out via email or connect with me on LinkedIn.
 
-## 📫 Find Me
-- **[LinkedIn](https://www.linkedin.com/in/surajnag)**
-- **[Email](mailto:suraj11nag@gmail.com)**
-- **[Portfolio](https://surajnag.netlify.app/)**
+---
 
-Dive into my repos and let's create data magic together! 🚀
+Check out my projects and contributions on [GitHub](https://github.com/Suraj11nag).
